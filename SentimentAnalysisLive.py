@@ -6,10 +6,10 @@ from textblob import TextBlob
 class Twitter(object): 
 
 	def __init__(self): 
-		API_key = 'AhUpuI98wPphCfkO6wXx9HiRy'
-		API_secret_key = 'smDz6SKwGekRAPVcCDzHu5x8HF2K7YqWUAaG2H6gWqhDiAkyIf'
-		access_token = '1196957044747563008-ooBcafmP6LjFMJm9gYAn3tlfKkiPVQ'
-		access_token_secret = 'a5RAW9HEmbjK1jMzmepz9SWy4f8MSyU9BZw76zEQAj1i1'
+		API_key = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+		API_secret_key = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+		access_token = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+		access_token_secret = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 		try: 
 			self.auth = OAuthHandler(API_key, API_secret_key) 
 			self.auth.set_access_token(access_token, access_token_secret) 
