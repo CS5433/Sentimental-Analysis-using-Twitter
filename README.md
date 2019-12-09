@@ -49,8 +49,10 @@ None
 
 
 
+d)Output:
 
 
+![](image.png)
 
 
 
