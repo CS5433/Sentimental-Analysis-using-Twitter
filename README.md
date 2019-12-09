@@ -15,6 +15,7 @@ List each team member along with a short description of their responsibility.
 2. Naga Sai Koonisetty (50567733):  Worked on searching the concepts for implementatin and solving the errors.
 3. Supriya Rajana (50570533):  Worked on finalizing the documentation and sloving the errors.
 
+
 Instructions:
 
 
@@ -27,11 +28,14 @@ For Authentication:
 6.	Run the sentimentAnalysisLive.py file for Sentiment Analysis.
 
 
-1. How to compile and execute:
+
+A)How to compile and execute:
+
 The code was written in python using visual studio and Install the following pip command: pip install textblob and pip install tweepy  and to run it :  python .\SentimentAnalysisLive.py
 
 
-2. Expected output:
+B)Expected output:
+
 User inputs -
 Enter the search keyword:
 Enter the number of tweets:
@@ -39,7 +43,8 @@ It give the percentage of positive, negative and neutral tweets about a keyword 
 
 
 
-3. Known issues:
+c)Known issues:
+
 None
 
 
